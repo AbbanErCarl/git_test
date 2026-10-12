@@ -1,0 +1,21 @@
+/* Add CSS Styling */
+.odd {
+    background: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+#second {
+    font-size: 36px;
+    color: blue;
+}
+
+.odd.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
